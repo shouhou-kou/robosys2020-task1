@@ -15,3 +15,4 @@ l : 反時計回りにledが点灯する
 1 : すべてのledが点灯して消える
 
 動画URL
+https://youtu.be/frlwsqY7pLE
