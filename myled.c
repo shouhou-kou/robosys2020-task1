@@ -8,7 +8,7 @@
  #include <asm/uaccess.h>
  
  
- MODULE_AUTHOR("Ikeda Togo");
+ MODULE_AUTHOR("Kou Shouhou");
  MODULE_DESCRIPTION("drinver for LED control");
  MODULE_LICENSE("GPL");
  MODULE_VERSION("0.1");
